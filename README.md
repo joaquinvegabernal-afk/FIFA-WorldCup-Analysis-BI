@@ -5,7 +5,7 @@ Este proyecto presenta un análisis integral de los datos históricos de los mun
 ## Tecnologías Utilizadas
 * **Python (Pandas):** Limpieza, estandarización de nombres de países y preparación de los datasets (ETL).
 * **SQL:** Consultas para la extracción de métricas clave y validación de integridad de datos.
-* **Power BI:** Modelado de datos, creación de medidas complejas con **DAX** y diseño de interfaz de usuario (UI/UX).
+* **Power BI:** Modelado de datos, creación de medidas complejas con **DAX** y diseño de interfaz de usuario.
 
 ## Estructura del Dashboard
 El reporte se divide en tres áreas estratégicas:
