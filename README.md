@@ -20,3 +20,8 @@ El reporte se divide en tres áreas estratégicas:
 ## Cómo ver el proyecto
 1. Descarga el archivo `.pbix` de este repositorio.
 2. Ábrelo con **Power BI Desktop**.
+
+## 📸 Capturas del Proyecto
+
+## Análisis de Goles y Resultados
+![Goles y Resultados](Imagenes%20de%20Dashboard/Goles%20y%20Resultados.png)
