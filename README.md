@@ -25,3 +25,7 @@ El reporte se divide en tres áreas estratégicas:
 
 ## Análisis de Goles y Resultados
 ![Goles y Resultados](Imagenes%20de%20Dashboard/Goles%20y%20Resultados.png)
+## Sedes y Asistencias
+![Sedes y Asistencias](Imagenes%20de%20Dashboard/sedes%20y%20asistencias.png)
+## Finales y Partidos Decisivos
+![Finales](Imagenes%20de%20Dashboard/Analisis%20de%20finales%20y%20partidos%20dec...png)
